@@ -1,5 +1,5 @@
-# cfd
+# cfd^3
 
 Welcome to the Repo!
 
-$$ x^3 $$
+$ x^3 $
