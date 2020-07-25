@@ -1,4 +1,4 @@
-# cfd^3
+# CFD-Cubed
 
 Welcome to the Repo!
 
