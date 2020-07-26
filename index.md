@@ -4,10 +4,3 @@
 
 layout: home
 ---
-
-## Portfolio
-
-
----
-
-## Nitty-gritties
